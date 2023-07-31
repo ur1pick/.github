@@ -59,6 +59,10 @@
 ## 클라우드 아키텍처
 ![aws](https://github.com/ur1pick/.github/assets/80504636/907fb6da-da44-44c4-8f42-9f8775b72146)
 
+## CICD 아키텍처
+![cicd](https://github.com/ur1pick/.github/assets/80504636/81bafbed-4fb0-4251-a1d1-462dcc0d4228)
+
+
 ## 백엔드 흐름도
 ![backend-flow](https://github.com/ur1pick/.github/assets/80504636/2a231b22-abb0-461e-b0b5-a994419cff74)
 
